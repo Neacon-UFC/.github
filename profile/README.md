@@ -1,12 +1,4 @@
-## Hi there 👋
+# Lamotriz
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About Us
+The "[Laboratório de Sistemas de Forças Motrizes](http://www.lamotriz.ufc.br/#/)" (Driving Force Systems Laboratory) of the Department of Electrical Engineering at the Federal University of Ceará has expertise in simulations and tests of industrial loads. The behavior is analyzed considering the application of automation and control techniques, for the operational optimization of the system or its energy efficiency
